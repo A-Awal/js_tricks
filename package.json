@@ -1,0 +1,17 @@
+{
+  "name": "js_tricks",
+  "version": "1.0.0",
+  "description": "Summaries from lectures",
+  "main": "program.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "awal",
+  "license": "ISC",
+  "dependencies": {
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
